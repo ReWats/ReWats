@@ -17,8 +17,8 @@ my portfolio.
 <br>
 
 # My Codewars Stats
+![Codewars Badge](https://www.codewars.com/users/ReWats/badges/large.svg)
 
-![Codewars Badge](https://www.codewars.com/users/ReWats/badges/medium.svg)
 
 
 
