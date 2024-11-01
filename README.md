@@ -16,6 +16,6 @@
 </a>
 <br>
 <br>
-<a href="https://www.codewars.com/users/ReWats/badges/large"></a>
+![Codewars Badge](https://www.codewars.com/users/ReWats/badges/large)
 
 
