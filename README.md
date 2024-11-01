@@ -17,8 +17,9 @@
 <br>
 <br>
 
-## My Codewars Stats
+# My Codewars Stats
 
 ![Codewars Badge](https://www.codewars.com/users/ReWats/badges/large.svg)
+
 
 
