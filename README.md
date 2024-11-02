@@ -16,7 +16,8 @@ my portfolio.
 <br>
 <br>
 
-[](https://www.codewars.com/users/ReWats/badges/large)
+![Codewars](https://img.shields.io/badge/Codewars%20%3A%20ReWats-<color>.svg)
+
 
 
 
