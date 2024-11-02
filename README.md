@@ -12,9 +12,7 @@ my portfolio.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReWats)](https://github.com/ReWats/github-readme-stats)
 
-<a href="https://github.com/ReWats/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ReWats&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 <br>
 <br>
 
