@@ -16,6 +16,7 @@ my portfolio.
 <br>
 <br>
 
+[](https://www.codewars.com/users/ReWats/badges/large)
 
 
 
