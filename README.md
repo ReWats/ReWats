@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on creating my own API
+
 - 🌱 I’m currently learning SQL and Databases
 - 👯 I’m looking to collaborate with others and become a better coder
 <br>
