@@ -12,7 +12,7 @@ my portfolio.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReWats)](https://github.com/ReWats/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReWats&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReWats&langs_count=8&hide=html)
 
 
 <br>
